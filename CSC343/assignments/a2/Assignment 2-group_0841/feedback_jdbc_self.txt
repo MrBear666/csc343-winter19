@@ -1,0 +1,12 @@
+========== Assignment2.CONNECTION: PASS ==========
+
+
+========== Assignment2.DISCONNECTION: PASS ==========
+
+
+========== Assignment2.electionSequence + d_es_1: PASS ==========
+
+
+========== Assignment2.findSimilarPoliticians + d_fsp_1: PASS ==========
+
+
